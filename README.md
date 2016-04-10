@@ -3,6 +3,8 @@
 
 ## Brian
 I use brian2, [The Brian spiking neural network simulator](http://briansimulator.org/) version 2.
+
+
 ### Prerequisites
 Before attending the workshop, make sure that:
 * You have [Python3](https://www.python.org/) on your machines. I use the one that comes with [Debian](https://www.debian.org/). 
@@ -18,3 +20,15 @@ and [Python form programmers](https://wiki.python.org/moin/BeginnersGuide/Progra
 [pandas](http://pandas.pydata.org/) and 
 [matplotlib](http://matplotlib.org/) installed. 
 * It is good to have [Jupyter](http://jupyter.org/) and [git](https://git-scm.com/). 
+
+
+### Install
+In linux terminal run this:
+
+```bash
+$ sudo pip3 install --upgrade brian2
+```
+
+For other cases, read the [manual](http://brian2.readthedocs.org/en/latest/introduction/install.html).
+It downloads and installs Brian2 and all its dependencies. 
+
