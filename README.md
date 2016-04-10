@@ -32,4 +32,9 @@ $ sudo pip3 install --upgrade brian2
 It downloads and installs Brian2 and all its dependencies. 
 For other cases, read the [manual](http://brian2.readthedocs.org/en/latest/introduction/install.html).
 
-
+## Get this repository
+In terminal run:
+```bash
+git clone https://github.com/hamed/WCN3.git
+```
+It creates WCN3 directory that includes all the examples.
