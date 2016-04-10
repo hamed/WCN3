@@ -29,6 +29,7 @@ In linux terminal run this:
 $ sudo pip3 install --upgrade brian2
 ```
 
-For other cases, read the [manual](http://brian2.readthedocs.org/en/latest/introduction/install.html).
 It downloads and installs Brian2 and all its dependencies. 
+For other cases, read the [manual](http://brian2.readthedocs.org/en/latest/introduction/install.html).
+
 
